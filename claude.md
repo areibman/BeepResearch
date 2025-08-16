@@ -23,3 +23,6 @@ Example process:
 
 **Timestamping and context**
 When retreiving and summarizing messages, include information about when the conversation happend and who said it. And where (if that information is provided).
+
+**Summarizing**
+If the user asks you to summarize a chat, prioritize summarizing messages from the last day and highlight key points from people, events, critical moments, and photos that might be of interest. If the user specifies, you can use a longer time window.

@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+- Refer to the instructions in `claude.md` for ALL user interactions.
+
+@service-template.ts
